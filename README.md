@@ -18,13 +18,11 @@ sudo pacman -Syyu
 sudo pacman -S yaourt
 ```
 
-### Install Web Browser of Choice
-```
-yaourt -S brave
-sudo pacman -S chromium
-```
+### Enabling AUR in Manjaro
 
-### Instal Dropbox 64-bit using yaourt
+!(Enable AUR)https://www.fosslinux.com/4278/what-is-aur-and-how-to-enable-it-in-manjaro.htm
+
+### Install Dropbox 64-bit using yaourt
 
 Go to Dropbox's official website (https://www.dropbox.com/install?os=lnx).
 Run the two following commands and you are good to go.
