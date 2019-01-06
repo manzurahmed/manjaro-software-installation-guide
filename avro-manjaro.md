@@ -19,11 +19,11 @@ Search for **ibus-avro-git**, it’ll be displayed in AUR repos. Build it.
 
 ## Enabling ibus-avro
 
-From Start menu, type "IBus Preferences" and hit Enter key. You will be prompt to start IBus Deamon. Start it.
-A new icon "EN" will appear on the Taskbar.
-Press Right click on that button and select "Preferences".
-There are 4 tabs, General, Input Method, Emoji and Advanced.
-Click on "Input Method".
-From Right hand side, click on "+Add" button, input method select list will appear.
-Click on Bangla and "Bengali - Avro Phonetic" will appear under "Bengali".
-Add Avro as input method.
+1. From Start menu, type "IBus Preferences" and hit Enter key. You will be prompt to start IBus Deamon. Start it.
+2. A new icon "EN" will appear on the Taskbar.
+3. Press Right click on that button and select "Preferences".
+4. There are 4 tabs, General, Input Method, Emoji and Advanced.
+5. Click on "Input Method".
+6. From Right hand side, click on "+Add" button, input method select list will appear.
+7. Click on Bangla and "Bengali - Avro Phonetic" will appear under "Bengali".
+8. Add Avro as input method.
