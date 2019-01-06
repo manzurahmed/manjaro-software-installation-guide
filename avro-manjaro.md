@@ -27,3 +27,10 @@ Search for **ibus-avro-git**, it’ll be displayed in AUR repos. Build it.
 6. From Right hand side, click on "+Add" button, input method select list will appear.
 7. Click on Bangla and "Bengali - Avro Phonetic" will appear under "Bengali".
 8. Add Avro as input method.
+
+## Autostart Avro Daemon every time I start my PC
+
+1. Open "Session and Startup" from Start menu. Choose "Application Autostart" tab and click on "Add" button.
+2. "Add application" form will appear. Write "ibus" in "Name:" field and "ibus-daemon" in "Command:" field. Now, press OK button.
+
+What this video for details: https://www.youtube.com/watch?v=4MGO7uNi2rY
