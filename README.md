@@ -31,3 +31,7 @@ In case if you get any error while installing the package, try the command below
 ```
 sudo pacman -Rs vim
 ```
+
+## Install XnView Multi Platform
+
+Install from "Add/Remove Software" app using AUR.
