@@ -20,13 +20,14 @@ sudo pacman -S yaourt
 
 ### Enabling AUR in Manjaro
 
-!(Enable AUR)https://www.fosslinux.com/4278/what-is-aur-and-how-to-enable-it-in-manjaro.htm
+(Enable AUR)!https://www.fosslinux.com/4278/what-is-aur-and-how-to-enable-it-in-manjaro.htm
 
-### Install Dropbox 64-bit using yaourt
-
-Go to Dropbox's official website (https://www.dropbox.com/install?os=lnx).
-Run the two following commands and you are good to go.
+## Install Vim Editor
 ```
-cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
-~/.dropbox-dist/dropboxd
+sudo pacman -S vim
+```
+
+In case if you get any error while installing the package, try the command below and repeat the previous commands:
+```
+sudo pacman -Rs vim
 ```
