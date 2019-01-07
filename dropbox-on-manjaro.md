@@ -1,9 +1,5 @@
 # Install Dropbox 64-bit using yaourt
 
-Go to Dropbox's official website (https://www.dropbox.com/install?os=lnx).
-Run the two following commands and you are good to go.
-```
-cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
-~/.dropbox-dist/dropboxd
-```
-
+1. Enable AUR.
+2. Start "Install/Remove Software" app and search "dropbox" in the search box using AUR repository.
+3. Install Dropbox from the search result.
