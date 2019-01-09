@@ -35,3 +35,11 @@ sudo pacman -Rs vim
 ## Install XnView Multi Platform
 
 Install from "Add/Remove Software" app using AUR.
+
+## Archive Software (RAR, ZIP, etc)
+
+Open "Add/Remove Software" app and search for "peazip-gtk2" from AUR repository. Build from the search result.
+
+peazip-gtk2 (GTK2 archiver utility)
+Repository: AUR
+size: 20.7 MB
