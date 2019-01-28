@@ -42,10 +42,15 @@ Type=forking
 WantedBy=multi-user.target
 ```
 Make the file "executable".
-
 ```
 chmod a+x xampp.service
 ```
+
+**Need to test**: Enable a unit to be started on bootup and Start immediately:
+```
+systemctl enable --now unit
+```
+
 
 All set! Restart your PC, open your browser, type "http://localhost/" in the addressbar. You should see the content from your local webserver's DocumentRoot.
 
