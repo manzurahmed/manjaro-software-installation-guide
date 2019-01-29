@@ -38,8 +38,8 @@ Install from "Add/Remove Software" app using AUR.
 
 ## XnView Settings
 
-* Interface
-**	Keyboard
+- Interface
+--	Keyboard
 ***		Pressing ESC once quits XnViewMP: Always
 * Browser
 **	Catalog
