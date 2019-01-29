@@ -36,6 +36,17 @@ sudo pacman -Rs vim
 
 Install from "Add/Remove Software" app using AUR.
 
+## XnView Settings
+
+Interface
+	Keyboard
+		Pressing ESC once quits XnViewMP: Always
+Browser
+	Catalog
+		Catalog
+			Enable Catalog: Untick
+
+
 ## Archive Software (RAR, ZIP, etc)
 
 Open "Add/Remove Software" app and search for "peazip-gtk2" from AUR repository. Build from the search result.
