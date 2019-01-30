@@ -38,14 +38,23 @@ Install from "Add/Remove Software" app using AUR.
 
 ## XnView Settings
 
-- Interface
---	Keyboard
-***		Pressing ESC once quits XnViewMP: Always
-* Browser
-**	Catalog
-***		Catalog
-***			Enable Catalog: Untick
+```
+General
+	General
+	- Startup
+		- Uncheck "Open browser"
+		- Startup directory: None
+		- Mode when starting with a file: Normal
+	
+Interface
+	Keyboard
+		Pressing ESC once quits XnViewMP: Always
 
+Browser
+	Catalog
+		Catalog
+			Enable Catalog: Untick
+```
 
 ## Archive Software (RAR, ZIP, etc)
 
