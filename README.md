@@ -64,3 +64,6 @@ peazip-gtk2 (GTK2 archiver utility)
 Repository: AUR
 size: 20.7 MB
 ```
+# Color Picker
+
+Search "pick-color-picker" in "Add/Remove Software" having AUR selected. Build the app from the search result.
