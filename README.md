@@ -67,3 +67,7 @@ size: 20.7 MB
 # Color Picker
 
 Search "pick-color-picker" in "Add/Remove Software" having AUR selected. Build the app from the search result.
+
+# Filezilla
+
+Install using "Add/Remove Software"
