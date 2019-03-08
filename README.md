@@ -77,3 +77,5 @@ Install using "Add/Remove Software"
 
 **fluxgui**
 Better lighting for Linux. Open source GUI for xflux.
+
+Install using "Add/Remove Software" feature using AUR.
