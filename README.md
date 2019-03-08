@@ -71,3 +71,9 @@ Search "pick-color-picker" in "Add/Remove Software" having AUR selected. Build t
 # Filezilla
 
 Install using "Add/Remove Software"
+
+# dflux
+"xflux" changes monitor color temperature adaptively to ease eye strain.
+
+**fluxgui**
+Better lighting for Linux. Open source GUI for xflux.
