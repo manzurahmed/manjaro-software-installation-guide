@@ -79,3 +79,11 @@ Install using "Add/Remove Software"
 Better lighting for Linux. Open source GUI for xflux.
 
 Install using "Add/Remove Software" feature using AUR.
+
+* Nikon RAW .NEF Driver
+
+To open Nikon's RAW .NEF files in GIMP, install a software, "Darktable". It installs a driver that enables .NEF files to be open by GIMP
+
+```
+sudo pacman -S darktable
+```
