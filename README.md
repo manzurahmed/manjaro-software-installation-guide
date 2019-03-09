@@ -75,12 +75,13 @@ Install using "Add/Remove Software"
 # dflux
 "xflux" changes monitor color temperature adaptively to ease eye strain.
 
-**fluxgui**
+### fluxgui
 Better lighting for Linux. Open source GUI for xflux.
 
-Install using "Add/Remove Software" feature using AUR.
+- Install using "Add/Remove Software" feature using AUR.
+- After completing installation, you should see "f.lux indicator applet". Click on it. This little app's icon should appear in the panel (like, Windows's taskbar). Right-click on it, and choose Preferences. In this screen, choose your desired color temperature. Finally check the "Autostart f.lux indicator applet" to start automatically when Manjaro starts.
 
-* Nikon RAW .NEF Driver
+# Nikon RAW .NEF Driver
 
 To open Nikon's RAW .NEF files in GIMP, install a software, "Darktable". It installs a driver that enables .NEF files to be open by GIMP
 
