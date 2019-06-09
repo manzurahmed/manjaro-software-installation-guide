@@ -88,3 +88,14 @@ To open Nikon's RAW .NEF files in GIMP, install a software, "Darktable". It inst
 ```
 sudo pacman -S darktable
 ```
+
+## Install traceroute
+
+```
+sudo pacman -S traceroute
+```
+
+In case if you get any error while installing the package, try the command below and repeat the previous commands
+```
+sudo pacman -Rs traceroute
+```
