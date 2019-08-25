@@ -33,4 +33,4 @@ Search for **ibus-avro-git**, it’ll be displayed in AUR repos. Build it.
 1. Open "Session and Startup" from Start menu. Choose "Application Autostart" tab and click on "Add" button.
 2. "Add application" form will appear. Write "ibus" in "Name:" field and "ibus-daemon" in "Command:" field. Now, press OK button.
 
-What this video for details: https://www.youtube.com/watch?v=4MGO7uNi2rY
+Watch this video for details: https://www.youtube.com/watch?v=4MGO7uNi2rY
