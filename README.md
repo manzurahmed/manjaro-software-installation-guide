@@ -22,7 +22,7 @@ sudo pacman -S yaourt
 
 ### Enabling AUR in Manjaro
 
-(Enable AUR)!https://www.fosslinux.com/4278/what-is-aur-and-how-to-enable-it-in-manjaro.htm
+![Enable AUR]!https://www.fosslinux.com/4278/what-is-aur-and-how-to-enable-it-in-manjaro.htm
 
 ## Install Vim Editor
 ```
@@ -103,7 +103,7 @@ sudo pacman -Rs traceroute
 ```
 ## Disable Windows Grouping
 
-(Windows Grouping)!Panel-Preferences-Items-WindowsButtons-WindowGrouping-Never.jpg
+![Windows Grouping](Panel-Preferences-Items-WindowsButtons-WindowGrouping-Never.jpg)
 
 - Click "Start" button and search for "Panel" and click on it to start panel customization app.
 - Select the "Items" tab.
