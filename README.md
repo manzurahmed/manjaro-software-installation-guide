@@ -22,7 +22,7 @@ sudo pacman -S yaourt
 
 ### Enabling AUR in Manjaro
 
-![Enable AUR]!https://www.fosslinux.com/4278/what-is-aur-and-how-to-enable-it-in-manjaro.htm
+![Enable AUR](https://www.fosslinux.com/4278/what-is-aur-and-how-to-enable-it-in-manjaro.htm)
 
 ## Install Vim Editor
 ```
