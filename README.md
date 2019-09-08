@@ -103,3 +103,10 @@ sudo pacman -Rs traceroute
 ```
 ## Disable Windows Grouping
 
+(Windows Grouping)!Panel-Preferences-Items-WindowsButtons-WindowGrouping-Never.jpg
+
+- Click "Start" button and search for "Panel" and click on it to start panel customization app.
+- Select the "Items" tab.
+- From the list window, select "Windows Buttons" and edit it.
+- Under "Behavior" section, Select "Never" for "Windows Grouping".
+- Close the windows all the way down to get out the Penel windows.
