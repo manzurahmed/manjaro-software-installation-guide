@@ -1,5 +1,7 @@
 # Manjaro software installation guide
 
+I shall write a short tutorial on it soon.
+
 My own guide to install softwares on Manjaro Linux
 
 ### Switch to Fastest Mirror
@@ -99,3 +101,5 @@ In case if you get any error while installing the package, try the command below
 ```
 sudo pacman -Rs traceroute
 ```
+## Disable Windows Grouping
+
