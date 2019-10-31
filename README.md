@@ -110,3 +110,8 @@ sudo pacman -Rs traceroute
 - From the list window, select "Windows Buttons" and edit it.
 - Under "Behavior" section, Select "Never" for "Windows Grouping".
 - Close the windows all the way down to get out the Penel windows.
+
+## Screenshot Software
+
+Install **flameshot** from AUR. After installation, run it from "Start". A system tray icon will appear.
+Right-click to bring the context menu up and click "Configuration" which bring up its dialog box. Click on "General" tab and check the **Launch at startup** checkbox.
