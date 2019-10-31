@@ -115,3 +115,13 @@ sudo pacman -Rs traceroute
 
 Install **flameshot** from AUR. After installation, run it from "Start". A system tray icon will appear.
 Right-click to bring the context menu up and click "Configuration" which bring up its dialog box. Click on "General" tab and check the **Launch at startup** checkbox.
+
+**Assign to PrintScreen Shortcut Key**
+
+- Head to the system settings and navigate your way to the Keyboard settings.
+- You will find all the keyboard shortcuts listed there, ignore them and scroll down to the bottom. Now, you will find a + button.
+- Click the “+” button to add a custom shortcut. You need to enter the following in the fields you get:
+**Name:** Anything You Want
+**Command:** /usr/bin/flameshot gui
+- Finally, set the shortcut to PrtSc – which will warn you that the default screenshot functionality will be disabled – so proceed doing it.
+
