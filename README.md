@@ -126,3 +126,7 @@ Right-click to bring the context menu up and click "Configuration" which bring u
 - Finally, set the shortcut to PrtSc – which will warn you that the default screenshot functionality will be disabled – so proceed doing it.
 
 ![Flameshot Keyboard Shortcut Key Assignment](https://github.com/manzurahmed/manjaro-software-installation-guide/blob/master/flameshot-config-default.jpg)
+
+### Flameshot - very handy screenshot software
+
+Flameshot is a very handy and useful screenshot taking software I am using on Manjaro.
