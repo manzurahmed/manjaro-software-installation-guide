@@ -111,7 +111,7 @@ sudo pacman -Rs traceroute
 - Under "Behavior" section, Select "Never" for "Windows Grouping".
 - Close the windows all the way down to get out the Penel windows.
 
-## Screenshot Software
+## Flameshot (Screenshot Software)
 
 Install **flameshot** from AUR. After installation, run it from "Start". A system tray icon will appear.
 Right-click to bring the context menu up and click "Configuration" which bring up its dialog box. Click on "General" tab and check the **Launch at startup** checkbox.
@@ -127,6 +127,3 @@ Right-click to bring the context menu up and click "Configuration" which bring u
 
 ![Flameshot Keyboard Shortcut Key Assignment](https://github.com/manzurahmed/manjaro-software-installation-guide/blob/master/flameshot-config-default.jpg)
 
-### Flameshot - very handy screenshot software
-
-Flameshot is a very handy and useful screenshot taking software I am using on Manjaro.
