@@ -127,3 +127,16 @@ Right-click to bring the context menu up and click "Configuration" which bring u
 
 ![Flameshot Keyboard Shortcut Key Assignment](https://github.com/manzurahmed/manjaro-software-installation-guide/blob/master/flameshot-config-default.jpg)
 
+## Switching Kernel
+
+Instead of using the Manjaro Settings Manager GUI to identify, choose, add, and remove kernels everything can be achieved from a terminal as well. 
+
+**Identifying the Kernel Being Used**
+This terminal command will give your system's kernel information: 
+```
+mhwd-kernel -li
+```
+As an example, once the terminal is opened, the following command will install a new kernel (4.19) **without deleting the existing kernel currently being used**:
+```
+sudo mhwd-kernel -i linux419
+```
