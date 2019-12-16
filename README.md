@@ -140,3 +140,8 @@ As an example, once the terminal is opened, the following command will install a
 ```
 sudo mhwd-kernel -i linux419
 ```
+
+**Trimage - Image Compressor**
+GUI based Image compressor and optimizer.
+Open "Add/Remove Software" and search "triimage" in AUR. Install and enjoy.
+Website: https://trimage.org/
