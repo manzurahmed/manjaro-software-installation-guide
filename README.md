@@ -146,3 +146,10 @@ sudo mhwd-kernel -i linux419
 GUI based Image compressor and optimizer. Open "Add/Remove Software" and search "triimage" in AUR. Install and enjoy.
 
 Website: https://trimage.org/
+
+## Install .TTF fonts
+
+Copy all .ttf fonts to /usr/share/fonts/TTF and run the following command from Terminal:
+```
+fc-cache -vf
+```
