@@ -153,3 +153,7 @@ Copy all .ttf fonts to /usr/share/fonts/TTF and run the following command from T
 ```
 fc-cache -vf
 ```
+## KdenLive
+```
+sudo pacman -S kdenlive
+```
