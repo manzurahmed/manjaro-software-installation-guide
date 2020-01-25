@@ -51,13 +51,16 @@ Make the file "executable".
 chmod a+x xampp.service
 ```
 
-**Need to test**: Enable a unit to be started on bootup and Start immediately:
+**Start the service at Startup**:
+
+Enable a unit to be started on bootup and Start immediately:
 ```
 systemctl enable --now xampp.service
 ```
 
-
-All set! Restart your PC, open your browser, type "http://localhost/" in the addressbar. You should see the content from your local webserver's DocumentRoot.
+All set!
+- Restart your PC.
+- Open your browser, type "http://localhost/" in the addressbar. You should see the content from your local webserver's DocumentRoot.
 
 ### Start xampp manually
 ```
