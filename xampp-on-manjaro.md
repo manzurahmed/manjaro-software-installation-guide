@@ -53,7 +53,7 @@ chmod a+x xampp.service
 
 **Need to test**: Enable a unit to be started on bootup and Start immediately:
 ```
-systemctl enable --now unit
+systemctl enable --now xampp.service
 ```
 
 
