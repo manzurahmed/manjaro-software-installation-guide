@@ -1,16 +1,21 @@
 # Download Xampp from Official Website
 
 1. Download "Xampp for Linux" from ApacheFriends website: https://www.apachefriends.org/download.html
-2. Check this Linux FAQ for installation guidelines: https://www.apachefriends.org/faq_linux.html
+2. The downloaded file will be saved on the default save folder of your browser. In my case, it saved on "Desktop" under my "Home" folder. The filename was **xampp-linux-x64-7.4.1-1-installer.run**.
+
+**N.B.** Check this Linux FAQ for installation guidelines: https://www.apachefriends.org/faq_linux.html
 
 # Install Xampp on Manjaro
 
-Issue the following two commands to start the automated installer.
+1. Open Terminal. Navigate to "Desktop" folder.
+2. Issue the following two commands to start the automated installer.
 
 ```
 chmod 755 xampp-linux-*-installer.run
 sudo ./xampp-linux-*-installer.run
 ```
+
+3. After a brief while, Xampp installer will pop up on the screen. Follow the instructions of the installer.
 
 That's all. XAMPP is now installed below the /opt/lampp directory.
 
