@@ -4,7 +4,7 @@ Browse this link: http://umaranis.com/2018/07/05/installing-visual-studio-code-v
 
 ## Install from "Add/Remove Software"
 
-After enabling "AUR" repository in "Add/Remove Software" app, search for "visual-studio-code-bin". There will be 2 software in the search list. Right-click on the 1st result "visual-studio-code-bin" and click "Install".
+After enabling "AUR" repository in "Add/Remove Software" app, search for "visual-studio-code-bin". select "visual-studio-code-bin" from the list and click "Install".
 
 ## Install from AUR (Method # 1)
 
