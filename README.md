@@ -80,8 +80,8 @@ Install using "Add/Remove Software"
 ### fluxgui
 Better lighting for Linux. Open source GUI for xflux.
 
-- Install using "Add/Remove Software" feature using AUR.
-- After completing installation, you should see "f.lux indicator applet". Click on it. This little app's icon should appear in the panel (like, Windows's taskbar). Right-click on it, and choose Preferences. In this screen, choose your desired color temperature. Finally check the "Autostart f.lux indicator applet" to start automatically when Manjaro starts.
+- From "Start", open "Add/Remove Software" and look for "xflux-gui-git". Build it.
+- After completing installation, press Start and look for **f.lux indicator applet**. Click on it. This little app's icon should appear in the panel (like, Windows's taskbar). Right-click on it, and choose Preferences. In this screen, choose your desired color temperature. Finally check the "Autostart f.lux indicator applet" to start automatically when Manjaro starts.
 
 # Nikon RAW .NEF Driver
 
