@@ -100,12 +100,12 @@ sudo cp /opt/lampp/etc/httpd.conf /opt/lampp/etc/httpd.conf.bak
 ls /opt/lampp/etc/httpd*
 ```
 
-Now open this file for editing
+Now open httpd.conf file for editing:
 ```
-sudo gedit /opt/lampp/etc/httpd.conf
+sudo vim /opt/lampp/etc/httpd.conf
 ```
 
-Now locate following directives
+Search for the following directives:
 
 ```
 User daemon
