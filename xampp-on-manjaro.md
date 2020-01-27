@@ -120,3 +120,11 @@ Group manzur
 ```
 
 Once file is saved, restart the XAMPP and verify that all services are started properly
+
+# Permission Issue
+
+I encounter permission issue while creating any file or folder in **htdocs** folder. This folder is located in **/opt/lampp/** folder.. It is because, **htdocs** folder is owned by **root** user and group. My username (webtechriser) does not have root privilege. To solve the permission issue, I shall **change ownership** of the whole **htdocs** folder. Open up a Terminal and issue the following command:
+```
+sudo chown -R webtechriser:webtechriser htdocs
+```
+My username is now have read, write and delete privilege.
