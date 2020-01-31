@@ -69,7 +69,7 @@ systemctl start xampp.service
 
 ## How to SOLVE phpMyAdmin Error (The $cfg[‘TempDir’] (./tmp/) is not accessible.)
 
-Create a folder "tmp" in "/opt/lampp/phpmyadmin" folder. The path should be "/opt/lampp/phpmyadmin/tmp".
+Create a folder **tmp** in **/opt/lampp/phpmyadmin** folder. The path should be "/opt/lampp/phpmyadmin/tmp".
 
 Open "config.inc.php" file that is found in /opt/lampp/phpmyadmin folder and add the following line:
 
@@ -81,7 +81,9 @@ sudo vim config.inc.php
 $cfg['TempDir'] = "/opt/lampp/phpmyadmin/tmp";
 ```
 
-Save the file. Give "write" permission (0777) to everybody.
+Save the file.
+
+Give "write" permission (0777) to everybody.
 
 ```
 sudo chmod a+w tmp
