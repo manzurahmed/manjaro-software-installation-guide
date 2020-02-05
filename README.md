@@ -156,3 +156,9 @@ fc-cache -vf
 ## KdenLive
 
 Install Kdenlive from **Main** repository. NOT from AUR.
+
+## Google Chrome
+
+1. Open "Add/Remove Software". Make sure you have enabled AUR.
+2. Search for "google-chrome" and build to install Chrome.
+3. That's it.
