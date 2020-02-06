@@ -162,3 +162,18 @@ Install Kdenlive from **Main** repository. NOT from AUR.
 1. Open "Add/Remove Software". Make sure you have enabled AUR.
 2. Search for "google-chrome" and build to install Chrome.
 3. That's it.
+
+# Putty (SSH client)
+
+1. Open the terminal. (Ctrl+Alt+T)
+
+2. Enter the following command to the terminal
+```
+    sudo pacman -S putty
+```
+3. putty is now installed.
+
+In case if you get any error while installing the package, try the command below and repeat the previous commands
+```
+    sudo pacman -Rs putty
+```
