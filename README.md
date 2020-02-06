@@ -165,6 +165,8 @@ Install Kdenlive from **Main** repository. NOT from AUR.
 
 # Putty (SSH client)
 
+URL: https://ecuadorminingnews.com/install-putty/
+
 1. Open the terminal. (Ctrl+Alt+T)
 
 2. Enter the following command to the terminal
