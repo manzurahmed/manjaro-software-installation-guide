@@ -179,3 +179,13 @@ In case if you get any error while installing the package, try the command below
 ```
     sudo pacman -Rs putty
 ```
+
+# Koala SASS (.scss) Preprocessor
+
+1. Search "**ruby**" (version 2.7.0.1) in AUR and install it.
+2. Ruby also installs "**rvm**" (version 1.29.9.-2).
+3. Start **Terminal**. Run this command to install "gconf" package:
+```
+sudo pacman -S gconf
+```
+4. Search "**koala**" (version 2.3.0.3) in AUR and install it.
