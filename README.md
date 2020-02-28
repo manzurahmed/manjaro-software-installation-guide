@@ -72,7 +72,8 @@ Search "pick-colour-picker" in "Add/Remove Software" having AUR selected. Build 
 
 # Filezilla
 
-Install using "Add/Remove Software"
+Install using "Add/Remove Software".
+URL: https://www.fosslinux.com/2421/how-to-install-filezilla-in-manjaro-linux-17-1-gnome.htm
 
 # dflux
 "xflux" changes monitor color temperature adaptively to ease eye strain.
