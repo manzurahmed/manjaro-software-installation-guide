@@ -34,3 +34,16 @@ Search for **ibus-avro-git**, it’ll be displayed in AUR repos. Build it.
 2. "Add application" form will appear. Write "ibus" in "Name:" field and "ibus-daemon" in "Command:" field. Now, press OK button.
 
 Watch this video for details: https://www.youtube.com/watch?v=4MGO7uNi2rY
+
+# FOR MANJARO KDE
+
+add the following line to **.profile** file:
+```
+ibus-daemon -drx
+```
+
+It will run ibus daemon all the time.
+
+For more details:
+- https://forum.manjaro.org/t/solved-kde-and-ibus/87662/8
+- https://forum.manjaro.org/t/i-want-ibus-daemon-to-run-all-the-time/105414/3
