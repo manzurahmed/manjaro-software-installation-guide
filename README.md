@@ -194,3 +194,10 @@ In case if you get any error while installing the package, try the command below
 sudo pacman -S gconf
 ```
 4. Search "**koala**" (version 2.3.0.3) in AUR and install it.
+
+# Zeal
+
+Zeal is an offline documentation browser for software developers.
+Install from App store.
+
+Link: https://zealdocs.org/
