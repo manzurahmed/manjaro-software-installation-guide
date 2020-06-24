@@ -37,6 +37,15 @@ Watch this video for details: https://www.youtube.com/watch?v=4MGO7uNi2rY
 
 # FOR MANJARO KDE
 
+
+- Create a file named, **ibus.sh** in **~/.config/autostart** folder with the following lines. Save and close.
+- Click Start menu, choose System Settings > Startup and Shutdown > Autostart > Script File. Add ibus.sh script file to be executed in startup.
+
+```
+#!/usr/bin/env bash
+exec ibus-daemon -drx
+```
+
 add the following line to **.profile** file:
 ```
 ibus-daemon -drx
