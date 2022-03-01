@@ -130,3 +130,9 @@ I encounter permission issue while creating any file or folder in **htdocs** fol
 sudo chown -R webtechriser:webtechriser htdocs
 ```
 My username is now have read, write and delete privilege.
+
+# XAMPP is currently only availably as 32 bit application. Please use a 32 bit compatibility library for your system
+
+I encountered this issue and after some Google, I found the solution at this link:
+
+https://stackoverflow.com/questions/71299408/xampp-is-currently-only-availably-as-32-bit-application-please-use-a-32-bit-com
