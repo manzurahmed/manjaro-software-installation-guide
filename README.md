@@ -36,7 +36,7 @@ sudo pacman -Rs vim
 
 ## TEAMVIEWER
 
-If you encounter an error message saying, **Teamviewer daemon is not running!**, starting the its service is suffice. To start the service run the following command in the Terminal:
+If you encounter an error message saying, **Teamviewer daemon is not running!**, starting its service will suffice. To start the service run the following command in the Terminal:
 
 ```
 systemctl enable teamviewerd
