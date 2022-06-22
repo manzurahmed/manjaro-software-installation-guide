@@ -34,6 +34,16 @@ In case if you get any error while installing the package, try the command below
 sudo pacman -Rs vim
 ```
 
+## TEAMVIEWER
+
+If you encounter an error message saying, **Teamviewer daemon is not running!**, starting the its service is suffice. To start the service run the following command in the Terminal:
+
+```
+systemctl enable teamviewerd
+```
+
+Please notice the service name. It's **teamviewerd**, not "teamviewer".
+
 ## GIMP
 
 Install from **Official** Repositories.
