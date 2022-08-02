@@ -135,4 +135,8 @@ My username is now have read, write and delete privilege.
 
 I encountered this issue and after some Google, I found the solution at this link:
 
+Source:
 https://stackoverflow.com/questions/71299408/xampp-is-currently-only-availably-as-32-bit-application-please-use-a-32-bit-com
+
+To solve this go to package manager and search for this package **libxcrypt-compat** then install it.
+That's all, xampp will work fine
