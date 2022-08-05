@@ -52,7 +52,3 @@ ibus-daemon -drx
 ```
 
 It will run ibus daemon all the time.
-
-For more details:
-- https://forum.manjaro.org/t/solved-kde-and-ibus/87662/8
-- https://forum.manjaro.org/t/i-want-ibus-daemon-to-run-all-the-time/105414/3
