@@ -211,3 +211,7 @@ Zeal is an offline documentation browser for software developers.
 Install from App store.
 
 Link: https://zealdocs.org/
+
+# OBS Studio (obs-studio)
+
+Official Repositories (community) by Christian Hesse (eworm@archlinux.org)
