@@ -39,6 +39,17 @@ Search for **ibus-avro-git**, it’ll be displayed in AUR repos. Build it.
 
 Watch this video for details: https://www.youtube.com/watch?v=4MGO7uNi2rY
 
+## Must install Bangla languages packages
+
+* Goto "Language Packages".
+* From "Available Language Packages" tab, look the following Bangla language packages under "bn_BD language packages",
+    - firefox-i18n-bn (Firefox)
+    - libreoffice-fresh-bn (LibreOffice Fresh)
+  
+  If these packages are not shown, click the "Install Packages" button.
+  
+  This is important.
+
 # FOR MANJARO KDE
 
 
@@ -50,8 +61,13 @@ Watch this video for details: https://www.youtube.com/watch?v=4MGO7uNi2rY
 exec ibus-daemon -drx
 ```
 
-add the following line to **.profile** file:
+Also, create a new file named, **.xprofile** in the current user's home folder and add the following lines:
 ```
+# ibus
+/etc/environment
+export GTK_IM_MODULE=ibus
+export XMODIFIERS=ibus
+export QT_IM_MODULE=ibus
 ibus-daemon -drx
 ```
 
