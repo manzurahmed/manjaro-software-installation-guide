@@ -1,8 +1,9 @@
 # Install Avro on Manjaro Linux
 
-Related Resources:
-https://medium.com/@sashraf94/installing-ibus-avro-on-arch-distros-arch-manjaro-for-newbies-6a73a2839f66
-https://arinbasu.medium.com/how-to-set-up-bengali-language-writing-in-archlinux-using-openbox-2a3169306947
+### Related Resources:
+- https://medium.com/@sashraf94/installing-ibus-avro-on-arch-distros-arch-manjaro-for-newbies-6a73a2839f66
+- https://arinbasu.medium.com/how-to-set-up-bengali-language-writing-in-archlinux-using-openbox-2a3169306947
+- https://wiki.archlinux.org/title/IBus
 
 
 ## First thing : Install Pamac
