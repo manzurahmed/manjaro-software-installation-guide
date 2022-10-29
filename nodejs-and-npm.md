@@ -2,7 +2,7 @@
 
 Just use "Add/Remove Software" app and search for "nodejs". NodeJS entry will appear in the search list, right-click on it and install.
 
-# Uninstall NodeJS on Manjaro
+# Update NPM and NodeJS
 
 The update of the NPM means the update node package manager to the latest version. The update of NPM updates the Node.js and modules to the latest version.
 
